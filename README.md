@@ -7,4 +7,4 @@ A Java program that can compare if your word appears in the wordlist.txt using J
 - Jumbled words can also be entered and the unjumbled word will be the output.
 
 # Disclaimer
-This program doesn't unjumble the word for you, it justs search for the string with the same hashmap as the entered string. It also just outputs one word, which is the first word it matches in the wordlist.txt.
+This program doesn't unjumble the word for you, it just searches for the string with the same hashmap as the entered string. It also just outputs one word, which is the first word it matches in the wordlist.txt.
